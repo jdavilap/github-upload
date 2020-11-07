@@ -1,5 +1,6 @@
 <template>
   <div class="App">
+    <h1>Mi esposa quiere saber que es un pull request </h1>
     <app-navbar></app-navbar>
     <router-view></router-view>
   </div>
